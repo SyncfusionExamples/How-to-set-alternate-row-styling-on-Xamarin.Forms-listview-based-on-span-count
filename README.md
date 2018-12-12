@@ -1,6 +1,8 @@
-# How to set alternate row styling on listview based on span count
+# How to set alternate row styling on listview based on span count?
 
 This example demonstrates how to define alternate row color for grid elements based on its span count in listview.
+
+See [How to set alternate row styling on listview based on span count?](https://www.syncfusion.com/kb/8448/how-to-achieve-the-alternate-row-styling-in-sflistview) for more details.
 
 ## Requirements to run the demo
 
